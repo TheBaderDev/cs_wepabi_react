@@ -94,6 +94,7 @@ namespace WebApplication1.Controllers
                 return NotFound();
             }
 
+            _context.B.RemoveRange(objectA.ObjectBs);
             _context.A.Remove(objectA);
             await _context.SaveChangesAsync();
 

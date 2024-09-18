@@ -8141,11 +8141,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bader\\source\\repos\\WebApplication1\\WebApplication1\\webapi.csproj",
+      "projectUniqueName": "C:\\Users\\Bader\\source\\repos\\cs_wepapi_react\\WebApplication1\\webapi.csproj",
       "projectName": "webapi",
-      "projectPath": "C:\\Users\\Bader\\source\\repos\\WebApplication1\\WebApplication1\\webapi.csproj",
+      "projectPath": "C:\\Users\\Bader\\source\\repos\\cs_wepapi_react\\WebApplication1\\webapi.csproj",
       "packagesPath": "C:\\Users\\Bader\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bader\\source\\repos\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\Bader\\source\\repos\\cs_wepapi_react\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
